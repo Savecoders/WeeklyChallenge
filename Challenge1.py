@@ -26,4 +26,4 @@ def isAnagram(wordOne, wordTwo) -> bool:
     return ''.join(wordOneList) == wordTwo
 
 
-print(isAnagram("romas", "amor"))
+print(isAnagram("roma", "amor"))
